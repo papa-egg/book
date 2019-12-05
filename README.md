@@ -6,9 +6,7 @@
 <!--special start-->
 
 <p align="left">
-   <a href="javascript:;">
-      <img width="300px" src="https://fhld-static.oss-cn-hangzhou.aliyuncs.com/images/pp-1.png" />
-   </a>
+   <img width="300px" src="./images/pp-1.png" />
 </p>
 
 <!--special end-->
@@ -24,9 +22,7 @@ js庞杂混沌缺少方向感，而这本书却能提纲挈领地把各种要点
 <!--special start-->
 
 <p align="left">
-   <a href="javascript:;">
-         <img width="300px" src="https://fhld-static.oss-cn-hangzhou.aliyuncs.com/images/pp-2.png" />
-      </a>
+   <img width="300px" src="https://fhld-static.oss-cn-hangzhou.aliyuncs.com/images/pp-2.jpg" />
 </p>
 
 <!--special end-->
