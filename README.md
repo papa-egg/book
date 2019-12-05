@@ -6,7 +6,7 @@
 <!--special start-->
 
 <p align="left">
-   <img width="300px" src="./images/pp-1.png" />
+   <img width="300px" src="https://fhld-static.oss-cn-hangzhou.aliyuncs.com/images/pp-1.png" />
 </p>
 
 <!--special end-->
